@@ -1,0 +1,19 @@
+.colorContainer {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+
+    .back {
+        width: 100%;
+        height: 80%;
+    }
+
+    .title {
+        padding: 5px 0;
+        width: 100%;
+        height: 20%;
+    }
+}
